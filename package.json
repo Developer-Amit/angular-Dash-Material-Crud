@@ -49,7 +49,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "init": "npm install",
+    "init": "npm install && bower install",
     "install": "bower install"
   }
 }
